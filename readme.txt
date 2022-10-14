@@ -1,0 +1,1 @@
+This is just a winmm.dll-wrapper that ignores waveOutSetVolume-calls to sidestep a problem in DeliPlayer. Wrapper-code was generated via wrap_dll.
